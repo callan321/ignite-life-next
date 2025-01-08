@@ -19,7 +19,7 @@ export default function HeroSection() {
     title: "Welcome",
     content: "Main Site is currently under Construction!",
     button: "Book Here",
-    href: "https://book.squareup.com/appointments/occ9h4nxjya007/location/LAD6P3NX6CZA4/services?gei=Ev19Z5GPPKOGnesP5afmoAk&hl=en-AU&rwg_token=AJKvS9V5bEFmuvLxxmJ0Y5UQZCAbwHwfHB11W4MoBuOMJ7thKXbkP8AmAGeD3zRmwLxfnylJasrECI4b9HX6eV5_BTWOyn76Mg%3D%3D",
+    href: "https://ignite-life-bowen-therapy.square.site/",
     backgroundImage:
         "/rocks.jpg",
   };
@@ -58,7 +58,7 @@ export default function HeroSection() {
         </div>
 
         {/* Main Content */}
-        <div className="mx-auto max-w-2xl py-32 text-center sm:py-48 lg:py-56 lg:space-y-10">
+        <div className="mx-auto max-w-2xl py-32 text-center sm:py-48 lg:py-56 lg:space-y-6">
           <h1 className={`text-4xl text-shadow ${parisienne.className} tracking-tight text-white sm:text-6xl`}
               style={{
                   textShadow: "0 1px 2px rgba(0, 0, 0, 0.5)",
